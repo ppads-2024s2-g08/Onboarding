@@ -1,0 +1,3 @@
+Meu nome é Camila, tenho 22 anos e Sistemas de Informação é o meu segundo curso no Mackenzie. Entrei inicialmente para fazer Engenharia Elétrica, curso que segui por três anos. No segundo ano, comecei a estagiar com tecnologia, me apaixonei pela área e, após um ano de trabalho, resolvi trocar de curso para alinhar o que aprendia em sala de aula com o que praticava no trabalho. Decidi, assim, direcionar tanto minha carreira profissional quanto acadêmica para a tecnologia.
+
+Atualmente, sou desenvolvedora backend, utilizando Java e Spring Boot para o desenvolvimento de APIs e microsserviços. Iniciei minha carreira como desenvolvedora iOS e também já trabalhei com desenvolvimento web, utilizando Angular.
